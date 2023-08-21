@@ -1,14 +1,13 @@
 [tool.poetry]
 name = "project-0"
-version = "0.0.1"
-description = "Игра \"Угадай число\""
-authors = ["Your Name <you@example.com>"]
-license = "None"
+version = "0.1.0"
+description = "Требования для запуска игры \"Угадай номер\""
+authors = ["Elancinos <telischev.evgeny@gmail.com>"]
 readme = "README.md"
-packages = [{include = "project_0"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+numpy = "^1.25.2"
 
 
 [build-system]
