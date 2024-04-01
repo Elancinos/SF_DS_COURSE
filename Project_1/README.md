@@ -25,6 +25,8 @@
 
 :floppy_disk: Исходные файлы датасетов из работы для удобства сохранил по ссылке (Гугл диск): https://drive.google.com/drive/folders/18cnWO7O7chUv9xndKvFln8PfF_t8t5GJ?usp=sharing
 
+Также в репозитории можно найти получившиеся графики.
+
 ---
 
 ### <a id='structure_research'> Исследование структуры данных </a>
