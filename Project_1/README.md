@@ -4,7 +4,7 @@
 [1. Описание проекта](#description)  
 [2. Исследование структуры данных](#structure_research)  
 [3. Преобразование данных](#data_transformation)  
-[4. Исследование зависимостей в данных](#addiction_research)
+[4. Исследование зависимостей в данных](#addiction_research)  
 [5. Очистка данных](#data_cleaning)  
 [6. Результаты](#result)    
 [7. Итоги](#conclusion)
