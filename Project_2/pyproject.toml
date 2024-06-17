@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "project-2"
+version = "0.1.0"
+description = "SF course second project. It's about researches in hh.ru vacancies."
+authors = ["Elancinos <telischev.evgeny@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.2"
+psycopg2 = "^2.9.9"
+requests = "^2.32.3"
+bs4 = "^0.0.2"
+plotly = "^5.22.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
