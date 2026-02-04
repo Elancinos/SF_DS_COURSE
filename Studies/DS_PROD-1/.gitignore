@@ -1,1 +1,7 @@
 /data
+/server/python_server_venv/__pycache__
+/server/python_server_venv/bin
+/server/python_server_venv/include
+/server/python_server_venv/lib
+/server/python_server_venv/lib64
+/server/python_server_venv/pyvenv.cfg
