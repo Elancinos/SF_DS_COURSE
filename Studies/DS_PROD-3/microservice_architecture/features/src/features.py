@@ -1,6 +1,7 @@
 import pika
 import numpy as np
 import json
+import traceback
 from sklearn.datasets import load_diabetes
 from time import sleep
 from datetime import datetime
@@ -55,5 +56,7 @@ while True:
         #Пауза на 10 секунд после итерации
         sleep(10)
         
-    except:
+    except Exception as error:
         print('Произошла одна или несколько ошибок, подключение к очереди невозможно!')
+        print('Детали:', error)
+        print(traceback.format_exc())
